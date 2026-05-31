@@ -7,7 +7,5 @@
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Discord"/>
   </a><br>
 <h>👋 Привет! Я начинающий разработчик на Python и C#  </h><br>
-В будущем планирую стать разработчиком игр на Unity,<br>
-а сейчас активно учусь и совершенствую свои навыки.<br>
-🎮 В играх отдаю предпочтение DDNet
+В будущем планирую стать разработчиком игр на Unity или Godot.
 </div>
